@@ -4,7 +4,6 @@ Step-by-Step Guide to Add an Angular App as a Microsoft Teams Tab :
  
 Create a new folder named manifest, and inside it, create a file called manifest.json with the following content:
  
-Plain Text
 {
   "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
   "manifestVersion": "1.16",
